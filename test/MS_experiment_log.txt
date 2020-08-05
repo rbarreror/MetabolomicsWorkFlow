@@ -1,0 +1,24 @@
+08/05/2020 04:56:31 PM - INFO - start script: Tagger.py -i test/MS_experiment.xls
+08/05/2020 04:56:31 PM - INFO - Using 3 cores
+08/05/2020 04:56:31 PM - INFO - Reading input file: test/MS_experiment.xls
+08/05/2020 04:56:32 PM - INFO - test/MS_experiment.xls was read
+08/05/2020 04:56:32 PM - INFO - Start food tagging
+08/05/2020 04:56:32 PM - INFO - Reading Food Table: Data/food_database.tsv
+08/05/2020 04:56:32 PM - INFO - Tagging food compounds
+08/05/2020 05:00:38 PM - INFO - start script: Tagger.py -i test/MS_experiment.xls
+08/05/2020 05:00:38 PM - INFO - Using 3 cores
+08/05/2020 05:00:38 PM - INFO - Reading input file: test/MS_experiment.xls
+08/05/2020 05:00:38 PM - INFO - test/MS_experiment.xls was read
+08/05/2020 05:00:38 PM - INFO - Start food tagging
+08/05/2020 05:00:38 PM - INFO - Reading Food Table: Data/food_database.tsv
+08/05/2020 05:00:38 PM - INFO - Tagging food compounds
+08/05/2020 05:00:40 PM - INFO - Finished food tagging
+08/05/2020 05:00:40 PM - INFO - Start drug tagging
+08/05/2020 05:00:40 PM - INFO - Reading Drug Table: Data/drug_database.tsv
+08/05/2020 05:00:40 PM - INFO - Tagging drug compounds
+08/05/2020 05:00:42 PM - INFO - Finished drug tagging
+08/05/2020 05:00:42 PM - INFO - Start halogenated compounds tagging
+08/05/2020 05:00:42 PM - INFO - Tagging halogenated compounds
+08/05/2020 05:00:42 PM - INFO - Finished halogenated compounds tagging
+08/05/2020 05:00:46 PM - INFO - test/tagged_MS_experiment.xls was written
+08/05/2020 05:00:46 PM - INFO - end script

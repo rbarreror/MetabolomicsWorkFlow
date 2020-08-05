@@ -1,0 +1,13 @@
+08/05/2020 05:01:40 PM - INFO - start script: Mod.py -i test/tagged_MS_experiment.xls
+08/05/2020 05:01:40 PM - INFO - Using 3 cores
+08/05/2020 05:01:40 PM - INFO - Reading input file: test/tagged_MS_experiment.xls
+08/05/2020 05:01:40 PM - INFO - test/tagged_MS_experiment.xls was read
+08/05/2020 05:01:40 PM - INFO - Removing rows identified by RemoveRow parameter
+08/05/2020 05:01:40 PM - INFO - Applying regular expression from regex.ini and sorting peptide aminoacids alphabetically
+08/05/2020 05:01:46 PM - INFO - Collapsing rows after metabolite name parsing
+08/05/2020 05:02:00 PM - INFO - Peptides post-processing (replace alphabetically sorted name by one of the original names)
+08/05/2020 05:02:00 PM - INFO - Parsing lipid names using Goslin
+08/05/2020 05:03:32 PM - INFO - Collapsing rows after lipid processing
+08/05/2020 05:03:38 PM - INFO - Writing output table in test/mod_tagged_MS_experiment.xls
+08/05/2020 05:03:40 PM - INFO - test/mod_tagged_MS_experiment.xls was written
+08/05/2020 05:03:40 PM - INFO - end script

@@ -1,0 +1,7 @@
+08/05/2020 05:04:54 PM - INFO - start script: Table.py -i test/mod_tagged_MS_experiment.xls
+08/05/2020 05:04:54 PM - INFO - Reading input file: test/mod_tagged_MS_experiment.xls
+08/05/2020 05:04:54 PM - INFO - test/mod_tagged_MS_experiment.xls was read
+08/05/2020 05:04:54 PM - INFO - Start collapsing table
+08/05/2020 05:05:00 PM - INFO - End collapsing table
+08/05/2020 05:05:00 PM - INFO - test/table_mod_tagged_MS_experiment.xls was written
+08/05/2020 05:05:00 PM - INFO - end script

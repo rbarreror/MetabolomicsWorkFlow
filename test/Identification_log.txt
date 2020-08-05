@@ -1,0 +1,7 @@
+08/05/2020 05:13:29 PM - INFO - start script: FeatureInfo.py -if test/FeatureInfo.xlsx -id test/Identification.xlsx
+08/05/2020 05:13:29 PM - INFO - Reading input file: test/FeatureInfo.xlsx
+08/05/2020 05:13:29 PM - INFO - test/FeatureInfo.xlsx was read
+08/05/2020 05:13:29 PM - INFO - Reading input file: test/Identification.xlsx
+08/05/2020 05:13:30 PM - INFO - test/Identification.xlsx was read
+08/05/2020 05:13:30 PM - INFO - test/id_Identification.xlsx was written
+08/05/2020 05:13:30 PM - INFO - end script
