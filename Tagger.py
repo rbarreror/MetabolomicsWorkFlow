@@ -461,8 +461,8 @@ if __name__=="__main__":
 
     # logging debug level. By default, info level
     if args.infile:
-        log_file = outfile = args.infile[:-4] + '_log.txt'
-        log_file_debug = outfile = args.infile[:-4] + '_log_debug.txt'
+        log_file = outfile = os.path.splitext(args.infile)[0] + '_log.txt'
+        log_file_debug = outfile = os.path.splitext(args.infile)[0] + '_log_debug.txt'
     
     else:
         log_file = outfile = 'log.txt'
